@@ -1,0 +1,28 @@
+Name : B.RAGHAVENDRA CHARY
+  DAY 1 BLOCKCHAIN ESSENTIALS ASSIGNMENT 1 
+    Q.NO 1 . What is your understanding of blockchain?
+       Ans . Blockchain is mix techonolgy of distributed datsbase & cryptography where data is verifiable,unchangeable , tamperproof and immutabe 
+             internet 2.0
+             Its a ledger kind of a system where the complete history of records are maintained and updated which are immutable. 
+             Its a system where one can perform only create or read the date neither one can update or delete the data
+   Q.NO 2  . What is the core problem the BlockChain is trying to solve?
+      Ans  . The authenticity and credibility of internet , which blockchain is trying  to solve by internet 2.0
+   Q.NO 3  . What are the few features BlockChain will give you?
+      Ans  . Features of blockchain : 
+                               No hacking
+                               Huge security boost
+                               Data transparency
+                               Decentralized
+                               verifiable
+                               unchangeable
+                               Tamper proof and immutable
+   Q.NO 4  . What all things does a block chain contain?
+      Ans  . A block chain contains : Mining key
+                                      Block number 
+                                      Transaction records
+                                      Previous block signature
+   Q.NO 5  . How is the verifiability of Blockchain being attained?
+      Ans  . Every block of Blockchain contains the unique Hash key by cryptography encryption of data in it. 
+             This unique hash key of every previous block is linked with succesive block of blockchain. 
+             If any changes in the data of Block , hashkey of that block  will be differed and the block gets dettached from link 
+             Now it is easy for one to check with another blockchain in a distribution channel and can easily identify where the data is tampered and thus verifiability of data is obtained.
